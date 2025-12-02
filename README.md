@@ -1,6 +1,6 @@
 # Olá, eu sou o Renan! 👋
 
-Estudante de **Sistemas Inteligentes** e entusiasta de tecnologia aplicada ao agronegócio.
+Estudante de **Sistemas Inteligentes**
 
 Tenho um background único que combina vivência comercial (vendas e atendimento) com formação técnica em TI. Atualmente, meu foco é o desenvolvimento de soluções que unam dados e interfaces intuitivas.
 
@@ -13,5 +13,5 @@ Tenho um background único que combina vivência comercial (vendas e atendimento
 Busco aplicar meus conhecimentos em lógica de programação e análise de sistemas em projetos reais, especialmente aqueles que geram impacto no setor produtivo e agronegócio.
 
 ### 📫 Contato
-* [LinkedIn] linkedin.com/in/renanrferreira/
+* LinkedIn: linkedin.com/in/renanrferreira/
 * Email: renanferreira33@fatec.sp.gov.br
