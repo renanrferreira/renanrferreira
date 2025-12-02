@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Renan! 👋
 
-<!--
-**renanrferreira/renanrferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas Inteligentes** e entusiasta de tecnologia aplicada ao agronegócio.
 
-Here are some ideas to get you started:
+Tenho um background único que combina vivência comercial (vendas e atendimento) com formação técnica em TI. Atualmente, meu foco é o desenvolvimento de soluções que unam dados e interfaces intuitivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou estudando atualmente
+* **Front-end:** Angular (Foco em consumo de APIs e SPAs)
+* **Back-end/Dados:** Python e Modelagem de Banco de Dados (MySQL)
+* **Contexto:** Inteligência Artificial e Big Data
+
+### 🎯 Objetivo
+Busco aplicar meus conhecimentos em lógica de programação e análise de sistemas em projetos reais, especialmente aqueles que geram impacto no setor produtivo e agronegócio.
+
+### 📫 Contato
+* [LinkedIn] linkedin.com/in/renanrferreira/
+* Email: renanferreira33@fatec.sp.gov.br
